@@ -1,0 +1,20 @@
+Plan
+
+0 finance
+00 players
+000 defenders
+0000 midfielders
+0001 goalkeeper
+
+01 inventory
+010 balls
+011 uniform
+
+1 management
+10 match
+100 comand
+101 briefing
+
+11 media
+110 advertising
+111 interview
